@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/github.io/Pharmaco.com/static/css/main.10f8d61a.css",
+    "main.js": "/github.io/Pharmaco.com/static/js/main.e18f52ef.js",
+    "static/js/453.9f5fe743.chunk.js": "/github.io/Pharmaco.com/static/js/453.9f5fe743.chunk.js",
+    "index.html": "/github.io/Pharmaco.com/index.html",
+    "main.10f8d61a.css.map": "/github.io/Pharmaco.com/static/css/main.10f8d61a.css.map",
+    "main.e18f52ef.js.map": "/github.io/Pharmaco.com/static/js/main.e18f52ef.js.map",
+    "453.9f5fe743.chunk.js.map": "/github.io/Pharmaco.com/static/js/453.9f5fe743.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.10f8d61a.css",
+    "static/js/main.e18f52ef.js"
+  ]
+}
